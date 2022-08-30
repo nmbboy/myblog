@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://src.axui.cn/v2.0/dist/css/ax.css" rel="stylesheet" type="text/css">
+    <link href="https://src.axui.cn/v2.0/dist/css/ax-response.css" rel="stylesheet" type="text/css">
+
+    <meta charset="UTF-8">
+    <title>blog index</title>
+</head>
+<body>
+{#<p class="ax-color-primary">ax-color-primary首要主色</p>#}
+<header class="ax-header">
+    <div class="ax-row">
+        <a href="###" class="ax-open ax-iconfont ax-icon-menu"></a><a href="###" class="ax-open ax-iconfont ax-icon-cart"></a><span class="ax-open"></span>
+        <div class="ax-col"><a href="###" class="ax-logo"><img src="https://src.axui.cn/v2.0/public/images/ax-logo.png" /></a></div>
+        <div class="ax-nav">
+
+            <div class="ax-item"><a href="###" class="ax-text">首页</a><span class="ax-line"></span></div>
+            <div class="ax-item ax-selected"><a href="###" class="ax-text">新闻动态</a><span class="ax-line"></span></div>
+            <div class="ax-item"><a href="###" class="ax-text">产品中心</a><span class="ax-line"></span></div>
+            <div class="ax-item "><a href="###" class="ax-text">关于</a><span class="ax-line"></span></div>
+
+            <span class="ax-btns"><a href="###" class="ax-iconfont ax-icon-question-o-f"><span class="ax-dot"></span></a><a href="###" class="ax-iconfont ax-icon-bell-f"><span class="ax-badge">8</span></a><a href="###" class="ax-iconfont ax-icon-person-f"></a><a href="###" class="ax-iconfont ax-icon-down" style="background-image: url(https://src.axui.cn/v2.0/public/images/head01.jpg);"></a></span>
+
+        </div>
+        <a href="###" class="ax-open ax-iconfont ax-icon-bell-f"><span class="ax-badge">2</span></a><a href="###" class="ax-open ax-iconfont ax-icon-person"><span class="ax-dot"></span></a><a href="###" class="ax-open ax-iconfont ax-icon-search"></a>
+    </div>
+</header>
+<div class="ax-space-header"></div>
+
+{% for post in Postlist %}
+    {#    <div><h3>{{ post.title }}</h3></div>#}
+    {#    <div><p>{{ post.author }}</p></div>#}
+    {#    <div><p>{{ post.content }}</p></div>#}
+    {#    <div><p>{{ post.createdate|date:'Y-m-d' }}</p></div>#}
+    {#    <div><p>{{ post.tag }}</p></div>#}
+    <div class="ax-padding ax-fadeInUp">
+        <div class="ax-grid ax-space-xxl">
+            <ul class="ax-grid-inner">
+
+                <li class="ax-grid-block ax-col-12">
+                    <div class="ax-card-block">
+                        <div class="ax-img">
+                            <a href="###" class="ax-figure ax-ax-ripple"
+                               style="background-image:url(https://src.axui.cn/v2.0/public/images/image-8.jpg),var(--load-gif);"></a>
+                        </div>
+                        <div class="ax-title">
+                            <a href="###" class="ax-ell-title">{{ post.title }}</a>
+                        </div>
+                        <div class="ax-des">
+                            {{ post.content }}
+                        </div>
+                        <span class="ax-tag ax-primary">{{ post.tag }}</span>
+
+
+                        <div class="ax-from">
+                            <span><i class="ax-iconfont ax-icon-message-o-f"></i> {{ post.author }}</span>
+                            <span>{{ post.createdate|date:'Y-m-d' }}</span>
+                        </div>
+                </li>
+
+
+            </ul>
+        </div>
+    </div>
+{% endfor %}
+
+<div class="ax-footer">
+    <div class="ax-row">
+        <div class="ax-col ax-operate">
+            <a href="###">在线反馈</a>
+            <a href="###">广告合作</a>
+        </div>
+        <div class="ax-copyright">?2020 <a href="###">AX斧头前端框架</a>版权所有　备案号:粤ICP备13043786号　<a href="###">粤公网安备33041102000390号</a></div>
+    </div>
+</div>
+
+{#<div class="ax-padding">#}
+{#    <div class="ax-grid ax-space-xxl">#}
+{#        <ul class="ax-grid-inner">#}
+{##}
+{#            <li class="ax-grid-block ax-col-12">#}
+{#                <div class="ax-card-block">#}
+{#                    <div class="ax-img">#}
+{#                        <a href="###" class="ax-figure" style="background-image:url(https://src.axui.cn/v2.0/public/images/image-8.jpg),var(--load-gif);"></a>#}
+{#                    </div>#}
+{#                    <div class="ax-title">#}
+{#                        <a href="###" class="ax-ell-title">{{  }}</a>#}
+{#                    </div>#}
+{#                    <div class="ax-des">#}
+{#                        意大利“水城”威尼斯12日遭遇有记录以来严重程度排第二的水灾，市长路易吉·布鲁尼亚罗有意宣布紧急状态，说这场水灾恐致惨重损失。#}
+{#                    </div>#}
+{#                    <div class="ax-from">#}
+{#                        <span><i class="ax-iconfont ax-icon-message-o-f"></i> 362</span>#}
+{#                        <span>2019年1月2日</span>#}
+{#                    </div>#}
+{#            </li>#}
+{##}
+{#            #}
+{##}
+{#            #}
+{##}
+{#            #}
+{##}
+{#        </ul>#}
+{#    </div>#}
+{#</div>#}
+
+</body>
+</html>

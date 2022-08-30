@@ -1,0 +1,878 @@
+INFO 2022-08-03 15:15:11,131 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:15:14,172 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-08-03 15:15:14,490 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-08-03 15:15:14,560 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-08-03 15:15:14,567 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-08-03 15:15:14,569 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-08-03 15:29:20,386 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/blog/settings.py changed, reloading.
+INFO 2022-08-03 15:29:20,628 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:29:38,998 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:29:56,021 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:30:15,938 basehttp 187 "GET / HTTP/1.1" 200 10633
+INFO 2022-08-03 15:32:58,269 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/blog/settings.py changed, reloading.
+INFO 2022-08-03 15:32:58,609 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:34:26,905 basehttp 187 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:34:26,939 basehttp 187 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2217
+INFO 2022-08-03 15:34:27,012 basehttp 187 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-08-03 15:34:27,012 basehttp 187 "GET /static/admin/css/login.css HTTP/1.1" 200 954
+INFO 2022-08-03 15:34:27,013 basehttp 187 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+INFO 2022-08-03 15:34:27,013 basehttp 187 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2022-08-03 15:34:27,022 basehttp 187 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+INFO 2022-08-03 15:34:29,996 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:34:30,021 basehttp 187 "GET /admin/ HTTP/1.1" 200 3287
+INFO 2022-08-03 15:34:30,051 basehttp 187 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2022-08-03 15:34:30,110 basehttp 187 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2022-08-03 15:34:30,111 basehttp 187 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2022-08-03 15:35:00,547 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/admin.py changed, reloading.
+INFO 2022-08-03 15:35:00,822 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:35:31,099 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/admin.py changed, reloading.
+INFO 2022-08-03 15:35:31,339 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:36:40,788 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/models.py changed, reloading.
+INFO 2022-08-03 15:36:41,069 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:36:46,234 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/models.py changed, reloading.
+INFO 2022-08-03 15:36:46,525 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:42:14,168 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:42:16,882 basehttp 187 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:42:16,922 basehttp 187 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2217
+INFO 2022-08-03 15:42:19,735 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2349
+INFO 2022-08-03 15:42:48,233 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:42:48,268 basehttp 187 "GET /admin/ HTTP/1.1" 200 3287
+INFO 2022-08-03 15:42:53,594 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/admin.py changed, reloading.
+INFO 2022-08-03 15:42:53,977 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:43:44,130 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:43:45,763 basehttp 187 "GET /admin/ HTTP/1.1" 200 4767
+INFO 2022-08-03 15:44:01,430 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/models.py changed, reloading.
+INFO 2022-08-03 15:44:01,871 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:44:02,684 basehttp 187 "GET /admin/ HTTP/1.1" 200 4766
+INFO 2022-08-03 15:44:05,205 basehttp 187 "GET /admin/post/posttag/ HTTP/1.1" 200 5610
+INFO 2022-08-03 15:44:05,297 basehttp 187 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2022-08-03 15:44:05,297 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:44:05,298 basehttp 187 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2022-08-03 15:44:05,302 basehttp 187 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO 2022-08-03 15:44:05,309 basehttp 187 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO 2022-08-03 15:44:05,309 basehttp 187 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2022-08-03 15:44:05,310 basehttp 187 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2022-08-03 15:44:05,320 basehttp 187 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2022-08-03 15:44:05,320 basehttp 187 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2022-08-03 15:44:05,321 basehttp 187 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2022-08-03 15:44:05,351 basehttp 187 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2022-08-03 15:44:07,518 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6300
+INFO 2022-08-03 15:44:07,545 basehttp 187 "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+INFO 2022-08-03 15:44:07,567 basehttp 187 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+INFO 2022-08-03 15:44:07,572 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:44:07,585 basehttp 187 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2022-08-03 15:44:07,594 basehttp 187 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+INFO 2022-08-03 15:44:19,364 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:44:19,400 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6530
+INFO 2022-08-03 15:44:19,448 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:44:19,509 basehttp 187 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2022-08-03 15:44:23,921 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:44:23,955 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6530
+INFO 2022-08-03 15:44:23,999 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:44:37,910 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:44:37,928 basehttp 187 "GET /admin/login/?next=/admin/post/posttag/add/ HTTP/1.1" 200 2251
+INFO 2022-08-03 15:44:38,012 basehttp 187 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-08-03 15:44:38,024 basehttp 187 "GET /static/admin/css/login.css HTTP/1.1" 200 954
+INFO 2022-08-03 15:44:38,025 basehttp 187 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+INFO 2022-08-03 15:44:38,025 basehttp 187 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+INFO 2022-08-03 15:44:38,026 basehttp 187 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2022-08-03 15:44:38,027 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-08-03 15:44:38,055 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-08-03 15:44:38,057 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-08-03 15:44:39,333 basehttp 187 "POST /admin/login/?next=/admin/post/posttag/add/ HTTP/1.1" 200 2384
+INFO 2022-08-03 15:44:39,361 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-08-03 15:44:46,113 basehttp 187 "POST /admin/login/?next=/admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:44:46,142 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6300
+INFO 2022-08-03 15:44:46,231 basehttp 187 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2022-08-03 15:44:46,234 basehttp 187 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2022-08-03 15:44:46,235 basehttp 187 "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+INFO 2022-08-03 15:44:46,235 basehttp 187 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2022-08-03 15:44:46,242 basehttp 187 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2022-08-03 15:44:46,245 basehttp 187 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2022-08-03 15:44:46,248 basehttp 187 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2022-08-03 15:44:46,253 basehttp 187 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+INFO 2022-08-03 15:44:46,255 basehttp 187 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2022-08-03 15:44:46,256 basehttp 187 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+INFO 2022-08-03 15:44:46,256 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:44:46,257 basehttp 187 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO 2022-08-03 15:44:46,257 basehttp 187 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2022-08-03 15:44:46,322 basehttp 187 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2022-08-03 15:45:01,233 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 200 6464
+INFO 2022-08-03 15:45:01,272 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:06,231 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:45:06,267 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6530
+INFO 2022-08-03 15:45:06,357 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:06,388 basehttp 187 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2022-08-03 15:45:08,135 basehttp 187 "GET /admin/post/poststate/ HTTP/1.1" 200 5614
+INFO 2022-08-03 15:45:08,168 basehttp 187 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO 2022-08-03 15:45:08,180 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:08,206 basehttp 187 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2022-08-03 15:45:09,512 basehttp 187 "GET /admin/post/poststate/add/ HTTP/1.1" 200 6308
+INFO 2022-08-03 15:45:09,548 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:17,180 basehttp 187 "POST /admin/post/poststate/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:45:17,213 basehttp 187 "GET /admin/post/poststate/add/ HTTP/1.1" 200 6540
+INFO 2022-08-03 15:45:17,252 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:24,197 basehttp 187 "POST /admin/post/poststate/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:45:24,231 basehttp 187 "GET /admin/post/poststate/add/ HTTP/1.1" 200 6540
+INFO 2022-08-03 15:45:24,260 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:25,954 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 5604
+INFO 2022-08-03 15:45:25,998 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:27,369 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 10294
+INFO 2022-08-03 15:45:27,401 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:45:27,446 basehttp 187 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2022-08-03 15:46:48,996 basehttp 187 "GET /admin/post/posttag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 2928
+INFO 2022-08-03 15:46:49,053 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 15:46:49,111 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 15:46:49,112 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 15:47:03,723 basehttp 187 "POST /admin/post/posttag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 346
+INFO 2022-08-03 15:47:03,744 basehttp 187 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2022-08-03 15:47:07,135 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 200 10886
+INFO 2022-08-03 15:47:07,189 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:47:10,702 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 15:47:10,739 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7020
+INFO 2022-08-03 15:47:10,824 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:47:21,972 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 10337
+INFO 2022-08-03 15:47:22,028 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:48:10,818 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 200 11778
+INFO 2022-08-03 15:48:10,858 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:50:15,338 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/models.py changed, reloading.
+INFO 2022-08-03 15:50:15,627 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 15:52:21,737 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 200 12419
+INFO 2022-08-03 15:52:21,789 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 15:52:21,825 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 15:52:21,825 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+ERROR 2022-08-03 15:52:25,891 log 241 Internal Server Error: /admin/post/post/add/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'author_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1885, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1745, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1797, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1220, in save_model
+    obj.save()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1621, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'author_id' in 'field list'")
+ERROR 2022-08-03 15:52:25,897 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 500 268002
+INFO 2022-08-03 15:52:33,440 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 10971
+INFO 2022-08-03 15:52:33,489 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+ERROR 2022-08-03 15:52:35,820 log 241 Internal Server Error: /admin/post/post/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2063, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+ERROR 2022-08-03 15:52:35,821 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 500 183166
+INFO 2022-08-03 15:52:37,280 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 10971
+INFO 2022-08-03 15:52:38,430 basehttp 187 "GET /admin/post/posttag/ HTTP/1.1" 200 7382
+INFO 2022-08-03 15:52:38,470 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 15:52:40,833 basehttp 187 "GET /admin/post/poststate/ HTTP/1.1" 200 6974
+INFO 2022-08-03 15:52:40,867 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+ERROR 2022-08-03 15:52:41,603 log 241 Internal Server Error: /admin/post/post/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2063, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+ERROR 2022-08-03 15:52:41,604 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 500 183167
+ERROR 2022-08-03 15:53:19,057 log 241 Internal Server Error: /admin/post/post/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2063, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+ERROR 2022-08-03 15:53:19,059 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 500 183167
+INFO 2022-08-03 15:53:20,343 basehttp 187 "GET /admin/post/poststate/ HTTP/1.1" 200 6974
+ERROR 2022-08-03 15:53:21,848 log 241 Internal Server Error: /admin/post/post/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 683, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2063, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 302, in __len__
+    self._fetch_all()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 1507, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/query.py", line 57, in __iter__
+    results = compiler.execute_sql(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/MySQLdb/connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 't_post.author_id' in 'field list'")
+ERROR 2022-08-03 15:53:21,849 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 500 183167
+INFO 2022-08-03 16:04:10,413 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:04:19,780 basehttp 187 "GET / HTTP/1.1" 200 10633
+WARNING 2022-08-03 16:04:19,835 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:04:19,836 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:04:27,306 basehttp 187 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:27,342 basehttp 187 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2217
+INFO 2022-08-03 16:04:31,292 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2349
+INFO 2022-08-03 16:04:33,940 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:33,976 basehttp 187 "GET /admin/ HTTP/1.1" 200 4766
+INFO 2022-08-03 16:04:34,028 basehttp 187 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2022-08-03 16:04:37,469 basehttp 187 "GET /admin/post/posttag/ HTTP/1.1" 200 5610
+INFO 2022-08-03 16:04:37,506 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:04:38,764 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6300
+INFO 2022-08-03 16:04:38,793 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 16:04:38,869 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:04:38,870 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:04:45,440 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:45,479 basehttp 187 "GET /admin/post/posttag/ HTTP/1.1" 200 6948
+INFO 2022-08-03 16:04:45,515 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:04:47,181 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6300
+INFO 2022-08-03 16:04:47,227 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 16:04:47,274 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:04:47,274 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:04:50,133 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:50,167 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6530
+INFO 2022-08-03 16:04:50,239 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:04:53,505 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:53,531 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6530
+INFO 2022-08-03 16:04:53,557 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:04:56,067 basehttp 187 "POST /admin/post/posttag/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:04:56,098 basehttp 187 "GET /admin/post/posttag/add/ HTTP/1.1" 200 6536
+INFO 2022-08-03 16:04:56,124 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:04:57,301 basehttp 187 "GET /admin/post/poststate/ HTTP/1.1" 200 5614
+INFO 2022-08-03 16:04:57,331 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 16:04:57,361 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:04:57,362 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:04:58,471 basehttp 187 "GET /admin/post/poststate/add/ HTTP/1.1" 200 6308
+INFO 2022-08-03 16:04:58,513 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:05:00,976 basehttp 187 "POST /admin/post/poststate/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:05:01,005 basehttp 187 "GET /admin/post/poststate/add/ HTTP/1.1" 200 6540
+INFO 2022-08-03 16:05:01,036 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:05:03,465 basehttp 187 "POST /admin/post/poststate/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:05:03,501 basehttp 187 "GET /admin/post/poststate/ HTTP/1.1" 200 7163
+INFO 2022-08-03 16:05:03,536 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 16:05:03,569 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:05:03,570 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:05:04,509 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 5604
+INFO 2022-08-03 16:05:04,540 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:05:05,783 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 10785
+INFO 2022-08-03 16:05:05,815 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:05:45,957 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:05:46,012 basehttp 187 "GET /admin/post/post/add/ HTTP/1.1" 200 11054
+INFO 2022-08-03 16:05:46,042 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+WARNING 2022-08-03 16:05:46,085 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:05:46,085 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2108
+INFO 2022-08-03 16:06:00,901 basehttp 187 "GET /admin/post/poststate/add/?_to_field=id&_popup=1 HTTP/1.1" 200 2934
+INFO 2022-08-03 16:06:00,963 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:06:12,256 basehttp 187 "POST /admin/post/post/add/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:06:12,292 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7294
+INFO 2022-08-03 16:06:12,349 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:06:13,786 basehttp 187 "GET /admin/post/post/1/change/ HTTP/1.1" 200 11534
+INFO 2022-08-03 16:06:13,814 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:07:39,702 basehttp 187 "GET /admin/post/post/1/change/ HTTP/1.1" 200 11534
+INFO 2022-08-03 16:07:39,735 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:07:41,216 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7053
+INFO 2022-08-03 16:07:41,253 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:07:42,508 basehttp 187 "GET /admin/post/post/1/change/ HTTP/1.1" 200 11534
+INFO 2022-08-03 16:07:42,549 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:07:44,679 basehttp 187 "GET /admin/ HTTP/1.1" 200 7168
+INFO 2022-08-03 16:08:38,240 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/blog/urls.py changed, reloading.
+INFO 2022-08-03 16:08:38,563 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:12:12,884 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/urls.py changed, reloading.
+INFO 2022-08-03 16:12:13,255 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:12:32,446 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/urls.py changed, reloading.
+INFO 2022-08-03 16:12:32,753 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:12:35,823 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/urls.py changed, reloading.
+INFO 2022-08-03 16:12:36,126 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:12:38,317 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/urls.py changed, reloading.
+INFO 2022-08-03 16:12:38,579 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-03 16:14:25,594 log 241 Not Found: /
+WARNING 2022-08-03 16:14:25,595 basehttp 187 "GET / HTTP/1.1" 404 2224
+INFO 2022-08-03 16:14:32,158 basehttp 187 "GET /index/ HTTP/1.1" 200 293
+INFO 2022-08-03 16:14:57,811 basehttp 187 "GET /index/ HTTP/1.1" 200 1454
+INFO 2022-08-03 16:15:33,868 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:15:34,244 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:16:12,643 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:16:12,949 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:16:26,190 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/admin.py changed, reloading.
+INFO 2022-08-03 16:16:26,497 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:18:04,304 basehttp 187 "GET /index/ HTTP/1.1" 200 1542
+ERROR 2022-08-03 16:19:15,714 log 241 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaultfilters.py", line 769, in date
+    return formats.date_format(value, arg)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/formats.py", line 160, in date_format
+    return dateformat.format(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 329, in format
+    return df.format(format_string)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 48, in format
+    pieces.append(str(getattr(self, piece)()))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 268, in r
+    raise TypeError(
+TypeError: The format for date objects may not contain time-related format specifiers (found 'r').
+ERROR 2022-08-03 16:19:15,718 basehttp 187 "GET /index/ HTTP/1.1" 500 143925
+ERROR 2022-08-03 16:19:17,912 log 241 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaultfilters.py", line 769, in date
+    return formats.date_format(value, arg)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/formats.py", line 160, in date_format
+    return dateformat.format(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 329, in format
+    return df.format(format_string)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 48, in format
+    pieces.append(str(getattr(self, piece)()))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 268, in r
+    raise TypeError(
+TypeError: The format for date objects may not contain time-related format specifiers (found 'r').
+ERROR 2022-08-03 16:19:17,916 basehttp 187 "GET /index/ HTTP/1.1" 500 143925
+WARNING 2022-08-03 16:19:17,953 log 241 Not Found: /favicon.ico
+INFO 2022-08-03 16:19:51,524 basehttp 187 "GET /index/ HTTP/1.1" 200 1520
+WARNING 2022-08-03 16:19:51,558 log 241 Not Found: /favicon.ico
+WARNING 2022-08-03 16:19:51,559 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2275
+ERROR 2022-08-03 16:20:00,709 log 241 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaultfilters.py", line 769, in date
+    return formats.date_format(value, arg)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/formats.py", line 160, in date_format
+    return dateformat.format(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 329, in format
+    return df.format(format_string)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 44, in format
+    raise TypeError(
+TypeError: The format for date objects may not contain time-related format specifiers (found 'a').
+ERROR 2022-08-03 16:20:00,710 basehttp 187 "GET /index/ HTTP/1.1" 500 140200
+ERROR 2022-08-03 16:20:16,545 log 241 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/backends/django.py", line 62, in render
+    return self.template.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 958, in render_annotated
+    return self.render(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/base.py", line 739, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/template/defaultfilters.py", line 769, in date
+    return formats.date_format(value, arg)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/formats.py", line 160, in date_format
+    return dateformat.format(
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 329, in format
+    return df.format(format_string)
+  File "/home/ubuntu/Desktop/leanr/django/blog/lib/python3.10/site-packages/django/utils/dateformat.py", line 44, in format
+    raise TypeError(
+TypeError: The format for date objects may not contain time-related format specifiers (found 'a').
+ERROR 2022-08-03 16:20:16,546 basehttp 187 "GET /index/ HTTP/1.1" 500 140200
+INFO 2022-08-03 16:20:21,046 basehttp 187 "GET /index/ HTTP/1.1" 200 1520
+INFO 2022-08-03 16:20:39,322 basehttp 187 "GET /index/ HTTP/1.1" 200 1576
+INFO 2022-08-03 16:47:07,055 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+WARNING 2022-08-03 16:47:07,087 log 241 Not Found: /favicon.ico
+INFO 2022-08-03 16:51:06,596 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-03 16:51:07,106 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-03 16:51:10,935 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7053
+INFO 2022-08-03 16:51:10,986 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:51:12,505 basehttp 187 "GET /admin/post/post/1/change/ HTTP/1.1" 200 11534
+INFO 2022-08-03 16:51:12,552 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:55:00,135 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:55:00,475 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:55:13,268 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:55:16,246 basehttp 187 "GET /index/ HTTP/1.1" 200 130
+INFO 2022-08-03 16:55:22,539 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:55:22,804 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:55:23,508 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-03 16:55:24,319 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-03 16:57:00,579 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:57:00,945 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:57:19,116 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/views.py changed, reloading.
+INFO 2022-08-03 16:57:19,467 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:57:20,309 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-03 16:57:26,562 basehttp 187 "POST /admin/post/post/1/change/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:57:26,604 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7279
+INFO 2022-08-03 16:57:26,645 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:57:28,574 basehttp 187 "GET /index/ HTTP/1.1" 200 1186
+INFO 2022-08-03 16:57:31,872 basehttp 187 "GET /admin/post/post/2/change/ HTTP/1.1" 200 12180
+INFO 2022-08-03 16:57:31,923 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:57:34,927 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7053
+INFO 2022-08-03 16:57:35,949 basehttp 187 "GET /admin/post/post/1/change/ HTTP/1.1" 200 11542
+INFO 2022-08-03 16:57:35,998 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:57:37,538 basehttp 187 "POST /admin/post/post/1/change/ HTTP/1.1" 302 0
+INFO 2022-08-03 16:57:37,579 basehttp 187 "GET /admin/post/post/ HTTP/1.1" 200 7279
+INFO 2022-08-03 16:57:37,665 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2022-08-03 16:57:39,133 basehttp 187 "GET /index/ HTTP/1.1" 200 1656
+INFO 2022-08-05 15:27:43,342 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-05 15:27:48,725 log 241 Not Found: /
+WARNING 2022-08-05 15:27:48,726 basehttp 187 "GET / HTTP/1.1" 404 2224
+INFO 2022-08-05 15:27:54,485 basehttp 187 "GET /index/ HTTP/1.1" 200 1905
+INFO 2022-08-05 15:28:57,750 basehttp 187 "GET /index/ HTTP/1.1" 200 1914
+INFO 2022-08-05 15:28:58,489 basehttp 187 "GET /index/ HTTP/1.1" 200 1914
+INFO 2022-08-05 15:31:45,944 basehttp 187 "GET /index/ HTTP/1.1" 200 114557
+WARNING 2022-08-05 15:31:46,092 log 241 Not Found: /index/img/github.png
+WARNING 2022-08-05 15:31:46,094 log 241 Not Found: /index/img/td.png
+WARNING 2022-08-05 15:31:46,095 basehttp 187 "GET /index/img/td.png HTTP/1.1" 404 2290
+WARNING 2022-08-05 15:31:46,099 basehttp 187 "GET /index/img/github.png HTTP/1.1" 404 2302
+WARNING 2022-08-05 15:31:46,241 log 241 Not Found: /index/img/github.png
+WARNING 2022-08-05 15:31:46,241 log 241 Not Found: /index/img/td.png
+WARNING 2022-08-05 15:31:46,242 basehttp 187 "GET /index/img/td.png HTTP/1.1" 404 2290
+WARNING 2022-08-05 15:31:46,242 basehttp 187 "GET /index/img/github.png HTTP/1.1" 404 2302
+WARNING 2022-08-05 15:31:46,268 log 241 Not Found: /index/src/images/loading.gif
+WARNING 2022-08-05 15:31:46,269 log 241 Not Found: /index/<
+WARNING 2022-08-05 15:31:46,269 basehttp 187 "GET /index/%3C?=$urldemo?%3Eimages/head01.jpg HTTP/1.1" 404 2302
+WARNING 2022-08-05 15:31:46,270 basehttp 187 "GET /index/src/images/loading.gif HTTP/1.1" 404 2326
+INFO 2022-08-05 15:32:45,752 basehttp 187 "GET /index/ HTTP/1.1" 200 1914
+INFO 2022-08-05 15:33:38,022 basehttp 187 "GET /index/ HTTP/1.1" 200 6507
+INFO 2022-08-05 15:36:13,055 basehttp 187 "GET /index/ HTTP/1.1" 200 3484
+INFO 2022-08-05 15:36:34,634 basehttp 187 "GET /index/ HTTP/1.1" 200 3488
+INFO 2022-08-05 15:39:17,485 basehttp 187 "GET /index/ HTTP/1.1" 200 3794
+INFO 2022-08-05 15:39:43,142 basehttp 187 "GET /index/ HTTP/1.1" 200 4014
+INFO 2022-08-05 15:43:18,813 basehttp 187 "GET /index/ HTTP/1.1" 200 3852
+INFO 2022-08-05 15:44:24,861 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:44:25,547 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:44:25,950 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:44:26,275 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:45:16,441 basehttp 187 "GET /index/ HTTP/1.1" 200 4044
+INFO 2022-08-05 15:45:17,632 basehttp 187 "GET /index/ HTTP/1.1" 200 4044
+INFO 2022-08-05 15:45:18,129 basehttp 187 "GET /index/ HTTP/1.1" 200 4044
+INFO 2022-08-05 15:45:32,795 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:45:33,462 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:45:33,857 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:45:34,230 basehttp 187 "GET /index/ HTTP/1.1" 200 3876
+INFO 2022-08-05 15:47:40,692 basehttp 187 "GET /index/ HTTP/1.1" 200 4268
+INFO 2022-08-05 15:49:13,199 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:36,390 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:36,881 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:37,158 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:37,374 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:37,634 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:49:38,035 basehttp 187 "GET /index/ HTTP/1.1" 200 5826
+INFO 2022-08-05 15:50:39,281 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-05 15:51:19,976 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-06 09:24:50,580 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+WARNING 2022-08-06 09:24:50,633 log 241 Not Found: /favicon.ico
+WARNING 2022-08-06 09:24:50,634 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2275
+INFO 2022-08-06 09:28:02,174 basehttp 187 "GET /index/ HTTP/1.1" 200 5878
+INFO 2022-08-06 09:28:08,158 basehttp 187 "GET /index/ HTTP/1.1" 200 5904
+INFO 2022-08-06 09:28:12,420 basehttp 187 "GET /index/ HTTP/1.1" 200 5930
+INFO 2022-08-06 09:28:27,366 basehttp 187 "GET /index/ HTTP/1.1" 200 5956
+INFO 2022-08-06 09:28:34,512 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:52:58,900 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-26 21:53:05,325 log 241 Not Found: /
+WARNING 2022-08-26 21:53:05,326 basehttp 187 "GET / HTTP/1.1" 404 2224
+WARNING 2022-08-26 21:53:06,186 log 241 Not Found: /
+WARNING 2022-08-26 21:53:06,190 basehttp 187 "GET / HTTP/1.1" 404 2224
+INFO 2022-08-26 21:53:10,423 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:19,015 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:38,040 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:38,905 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:40,142 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:40,860 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:41,331 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:41,934 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:42,458 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:42,978 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:43,443 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-26 21:53:43,894 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:01:49,464 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-30 09:01:56,899 log 241 Not Found: /
+WARNING 2022-08-30 09:01:56,906 basehttp 187 "GET / HTTP/1.1" 404 2224
+WARNING 2022-08-30 09:01:58,224 log 241 Not Found: /
+WARNING 2022-08-30 09:01:58,228 basehttp 187 "GET / HTTP/1.1" 404 2224
+INFO 2022-08-30 09:02:04,319 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:02:06,753 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:02:27,163 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-30 09:02:29,589 log 241 Not Found: /
+WARNING 2022-08-30 09:02:29,589 basehttp 187 "GET / HTTP/1.1" 404 2224
+WARNING 2022-08-30 09:02:29,933 log 241 Not Found: /favicon.ico
+WARNING 2022-08-30 09:02:29,933 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2275
+INFO 2022-08-30 09:02:33,328 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:02:34,942 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:04:09,003 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-08-30 09:04:12,637 log 241 Not Found: /
+WARNING 2022-08-30 09:04:12,638 basehttp 187 "GET / HTTP/1.1" 404 2224
+WARNING 2022-08-30 09:04:12,876 log 241 Not Found: /favicon.ico
+WARNING 2022-08-30 09:04:12,876 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2275
+INFO 2022-08-30 09:04:16,901 basehttp 187 "GET /index/ HTTP/1.1" 200 5852
+INFO 2022-08-30 09:04:36,304 autoreload 266 /home/ubuntu/Desktop/leanr/django/Small_projects/blog/post/urls.py changed, reloading.
+INFO 2022-08-30 09:04:36,581 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-30 09:04:38,885 basehttp 187 "GET / HTTP/1.1" 200 5852
+INFO 2022-08-30 09:04:43,066 basehttp 187 "GET / HTTP/1.1" 200 5852
